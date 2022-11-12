@@ -1,0 +1,1 @@
+<view class="_div data-v-5566b618"><goods-list vue-id="576f0adc-1" goodsList="{{goodsList}}" data-event-opts="{{[['^getGoodsDetail1',[['goodsDetailClick']]]]}}" bind:getGoodsDetail1="__e" class="data-v-5566b618" bind:__l="__l"></goods-list><view hidden="{{!(isActive)}}" class="close data-v-5566b618">下一条请求数据 不够20条</view></view>
